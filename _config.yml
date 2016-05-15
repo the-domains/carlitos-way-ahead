@@ -1,0 +1,14 @@
+layout_spectrum: 0.3930895852390677
+typography_spectrum: 0.3033512292895466
+color:
+  brandStrength: 0.4135605222545564
+  lightness: 0.5515039975289255
+  saturation: 0.6301582087762654
+  rhythmicContrast: 0.8909211782738566
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: "Carlito's Way Ahead"
